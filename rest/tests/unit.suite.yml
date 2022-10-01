@@ -1,0 +1,2 @@
+suite_namespace: rest\tests\unit
+actor: UnitTester

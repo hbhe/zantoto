@@ -1,0 +1,10 @@
+actor: RestTester
+modules:
+    enabled:
+        - \rest\tests\Helper\Rest
+        - REST:
+            url: http://127.0.0.1/zantoto/rest/v1/
+            # depends: PhpBrowser
+            depends: Yii2
+            part: Json
+

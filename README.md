@@ -1,3 +1,4 @@
+
 这是一个多商户的商城系统, 适合于程序员做二次开发：
 1. 支持平台上架商品，也支持普通商户上架商品，即所谓的多商同户系统
 2. 支持自定义店铺分类如: 酒店/购物/餐饮/休闲
@@ -167,3 +168,4 @@ sql_mode='STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY
 ```
 - 页面上显示\<\? \?\>这种符号怎么办？可修改php.ini, 将short_open_tag = On，然后重启PHP
 - 其它问题请联系本人微信:15527210477, 注明zantoto
+
